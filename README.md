@@ -1,7 +1,7 @@
 # testSauceDemo
 
 ## How to Run
-- Download katalon (jika belum punya)
+- Open Katalon App
 - Create New Project
 - Clone Repository
 - Jalankan test suite menggunakan chrome (default)
