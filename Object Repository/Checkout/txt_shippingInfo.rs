@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_shippingInfo</name>
+   <tag></tag>
+   <elementGuidId>9dc1005b-b853-4873-9647-841860f2313b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;checkout_summary_container&quot;]/div/div[2]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;checkout_summary_container&quot;]/div/div[2]/div[3]</value>
+      <webElementGuid>476fcecd-fafa-45f1-8ebe-94e8d560ce5f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

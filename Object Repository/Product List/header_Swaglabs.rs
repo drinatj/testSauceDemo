@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>header_Swaglabs</name>
+   <tag></tag>
+   <elementGuidId>5f028f91-9990-4f2b-bdf0-60a268a63afc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;header_container&quot;]/div[1]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;header_container&quot;]/div[1]/div[2]/div</value>
+      <webElementGuid>3847a76c-ce6a-4a94-8656-677d8f9347e4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

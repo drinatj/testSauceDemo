@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_thanks</name>
+   <tag></tag>
+   <elementGuidId>4008629c-992c-408d-ba0d-30c063d01373</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;checkout_complete_container&quot;]/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;checkout_complete_container&quot;]/h2</value>
+      <webElementGuid>e8c0662e-fa3f-4557-84d2-f536dba01b4e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

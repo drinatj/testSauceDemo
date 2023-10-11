@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Checkout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2eae6431-4a53-4003-9447-295643972e95</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7e2550ec-8b42-4974-81ef-f93b545b8adc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c35076af-6e36-4655-9994-04d3bde2edcf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cc05f8eb-1294-4711-bcc8-c0faf328a272</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Drina'</defaultValue>
+      <description></description>
+      <id>7e2550ec-8b42-4974-81ef-f93b545b8adc</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Tj'</defaultValue>
+      <description></description>
+      <id>c35076af-6e36-4655-9994-04d3bde2edcf</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'12345'</defaultValue>
+      <description></description>
+      <id>cc05f8eb-1294-4711-bcc8-c0faf328a272</id>
+      <masked>false</masked>
+      <name>PostalCode</name>
+   </variable>
+</TestCaseEntity>
